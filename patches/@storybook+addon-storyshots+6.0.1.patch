@@ -1,0 +1,11 @@
+diff --git a/node_modules/@storybook/addon-storyshots/dist/frameworks/preact/loader.js b/node_modules/@storybook/addon-storyshots/dist/frameworks/preact/loader.js
+index 17b799f..bae67fc 100644
+--- a/node_modules/@storybook/addon-storyshots/dist/frameworks/preact/loader.js
++++ b/node_modules/@storybook/addon-storyshots/dist/frameworks/preact/loader.js
+@@ -1,5 +1,5 @@
+ "use strict";
+-/** @jsx h */
++
+ var __assign = (this && this.__assign) || function () {
+     __assign = Object.assign || function(t) {
+         for (var s, i = 1, n = arguments.length; i < n; i++) {

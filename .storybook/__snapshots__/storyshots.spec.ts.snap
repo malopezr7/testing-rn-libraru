@@ -1,0 +1,527 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button Primary 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#0000FF",
+        "borderRadius": 16,
+      },
+    ]
+  }
+  variant="primary"
+>
+  <RNGestureHandlerButton
+    activeOpacity={0.105}
+    collapsable={false}
+    enabled={true}
+    handlerTag={1}
+    handlerType="NativeViewGestureHandler"
+    onActiveStateChange={[Function]}
+    onGestureEvent={[Function]}
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    onHandlerStateChange={[Function]}
+    onPress={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderRadius": 16,
+        "height": 48,
+        "justifyContent": "center",
+      }
+    }
+    underlayColor="black"
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "black",
+          "borderBottomLeftRadius": undefined,
+          "borderBottomRightRadius": undefined,
+          "borderRadius": 16,
+          "borderTopLeftRadius": undefined,
+          "borderTopRightRadius": undefined,
+          "bottom": 0,
+          "left": 0,
+          "opacity": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+    <Text
+      style={
+        [
+          {
+            "fontFamily": undefined,
+          },
+          [
+            {
+              "color": "#FFFFFF",
+            },
+          ],
+        ]
+      }
+      variant="primary"
+    >
+      Primary
+    </Text>
+  </RNGestureHandlerButton>
+</View>
+`;
+
+exports[`Storyshots Button Primary Loading 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#0000FF",
+        "borderRadius": 16,
+      },
+    ]
+  }
+  variant="primary"
+>
+  <RNGestureHandlerButton
+    activeOpacity={0.105}
+    collapsable={false}
+    enabled={false}
+    handlerTag={2}
+    handlerType="NativeViewGestureHandler"
+    onActiveStateChange={[Function]}
+    onGestureEvent={[Function]}
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    onHandlerStateChange={[Function]}
+    onPress={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderRadius": 16,
+        "height": 48,
+        "justifyContent": "center",
+      }
+    }
+    underlayColor="black"
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "black",
+          "borderBottomLeftRadius": undefined,
+          "borderBottomRightRadius": undefined,
+          "borderRadius": 16,
+          "borderTopLeftRadius": undefined,
+          "borderTopRightRadius": undefined,
+          "bottom": 0,
+          "left": 0,
+          "opacity": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+    <Text
+      style={
+        [
+          {
+            "fontFamily": undefined,
+          },
+          [
+            {
+              "color": "#FFFFFF",
+            },
+          ],
+        ]
+      }
+      variant="primary"
+    >
+      Primary loading
+    </Text>
+  </RNGestureHandlerButton>
+</View>
+`;
+
+exports[`Storyshots Button Secondary 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#FFFF00",
+        "borderRadius": 16,
+      },
+    ]
+  }
+  variant="secondary"
+>
+  <RNGestureHandlerButton
+    activeOpacity={0.105}
+    collapsable={false}
+    enabled={true}
+    handlerTag={3}
+    handlerType="NativeViewGestureHandler"
+    onActiveStateChange={[Function]}
+    onGestureEvent={[Function]}
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    onHandlerStateChange={[Function]}
+    onPress={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderRadius": 16,
+        "height": 48,
+        "justifyContent": "center",
+      }
+    }
+    underlayColor="black"
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "black",
+          "borderBottomLeftRadius": undefined,
+          "borderBottomRightRadius": undefined,
+          "borderRadius": 16,
+          "borderTopLeftRadius": undefined,
+          "borderTopRightRadius": undefined,
+          "bottom": 0,
+          "left": 0,
+          "opacity": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+    <Text
+      style={
+        [
+          {
+            "fontFamily": undefined,
+          },
+          [
+            {
+              "color": "#000000",
+            },
+          ],
+        ]
+      }
+      variant="secondary"
+    >
+      Secondary
+    </Text>
+  </RNGestureHandlerButton>
+</View>
+`;
+
+exports[`Storyshots Button Secondary Loading 1`] = `
+<View
+  style={
+    [
+      {
+        "backgroundColor": "#FFFF00",
+        "borderRadius": 16,
+      },
+    ]
+  }
+  variant="secondary"
+>
+  <RNGestureHandlerButton
+    activeOpacity={0.105}
+    collapsable={false}
+    enabled={false}
+    handlerTag={4}
+    handlerType="NativeViewGestureHandler"
+    onActiveStateChange={[Function]}
+    onGestureEvent={[Function]}
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    onHandlerStateChange={[Function]}
+    onPress={[Function]}
+    style={
+      {
+        "alignItems": "center",
+        "borderRadius": 16,
+        "height": 48,
+        "justifyContent": "center",
+      }
+    }
+    underlayColor="black"
+  >
+    <View
+      collapsable={false}
+      style={
+        {
+          "backgroundColor": "black",
+          "borderBottomLeftRadius": undefined,
+          "borderBottomRightRadius": undefined,
+          "borderRadius": 16,
+          "borderTopLeftRadius": undefined,
+          "borderTopRightRadius": undefined,
+          "bottom": 0,
+          "left": 0,
+          "opacity": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+        }
+      }
+    />
+    <Text
+      style={
+        [
+          {
+            "fontFamily": undefined,
+          },
+          [
+            {
+              "color": "#000000",
+            },
+          ],
+        ]
+      }
+      variant="secondary"
+    >
+      Secondary loading
+    </Text>
+  </RNGestureHandlerButton>
+</View>
+`;
+
+exports[`Storyshots Screen: BlankAuth Screen Auth Base 1`] = `
+<View
+  style={
+    [
+      {
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    Auth screen
+  </Text>
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "#0000FF",
+          "borderRadius": 16,
+        },
+        {
+          "marginTop": 20,
+        },
+      ]
+    }
+    variant="primary"
+  >
+    <RNGestureHandlerButton
+      activeOpacity={0.105}
+      collapsable={false}
+      enabled={true}
+      handlerTag={5}
+      handlerType="NativeViewGestureHandler"
+      onActiveStateChange={[Function]}
+      onGestureEvent={[Function]}
+      onGestureHandlerEvent={[Function]}
+      onGestureHandlerStateChange={[Function]}
+      onHandlerStateChange={[Function]}
+      onPress={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "borderRadius": 16,
+          "height": 48,
+          "justifyContent": "center",
+        }
+      }
+      testID="login_button"
+      underlayColor="black"
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "backgroundColor": "black",
+            "borderBottomLeftRadius": undefined,
+            "borderBottomRightRadius": undefined,
+            "borderRadius": 16,
+            "borderTopLeftRadius": undefined,
+            "borderTopRightRadius": undefined,
+            "bottom": 0,
+            "left": 0,
+            "opacity": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+      <Text
+        style={
+          [
+            {
+              "fontFamily": undefined,
+            },
+            [
+              {
+                "color": "#FFFFFF",
+              },
+            ],
+          ]
+        }
+        variant="primary"
+      >
+        Fake login
+      </Text>
+    </RNGestureHandlerButton>
+  </View>
+</View>
+`;
+
+exports[`Storyshots Screen: BlankMain Screen Main Base 1`] = `
+<View
+  style={
+    [
+      {
+        "alignItems": "center",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {},
+      ]
+    }
+  >
+    Hi!
+  </Text>
+</View>
+`;
+
+exports[`Storyshots Screen: TabMain Screen Tab Base 1`] = `
+<View
+  style={
+    [
+      {
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      [
+        {
+          "textAlign": "center",
+        },
+      ]
+    }
+  >
+    Tab screen
+  </Text>
+  <View
+    style={
+      [
+        {
+          "backgroundColor": "#0000FF",
+          "borderRadius": 16,
+        },
+        {
+          "marginTop": 20,
+        },
+      ]
+    }
+    variant="primary"
+  >
+    <RNGestureHandlerButton
+      activeOpacity={0.105}
+      collapsable={false}
+      enabled={true}
+      handlerTag={6}
+      handlerType="NativeViewGestureHandler"
+      onActiveStateChange={[Function]}
+      onGestureEvent={[Function]}
+      onGestureHandlerEvent={[Function]}
+      onGestureHandlerStateChange={[Function]}
+      onHandlerStateChange={[Function]}
+      onPress={[Function]}
+      style={
+        {
+          "alignItems": "center",
+          "borderRadius": 16,
+          "height": 48,
+          "justifyContent": "center",
+        }
+      }
+      testID="logout_button"
+      underlayColor="black"
+    >
+      <View
+        collapsable={false}
+        style={
+          {
+            "backgroundColor": "black",
+            "borderBottomLeftRadius": undefined,
+            "borderBottomRightRadius": undefined,
+            "borderRadius": 16,
+            "borderTopLeftRadius": undefined,
+            "borderTopRightRadius": undefined,
+            "bottom": 0,
+            "left": 0,
+            "opacity": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          }
+        }
+      />
+      <Text
+        style={
+          [
+            {
+              "fontFamily": undefined,
+            },
+            [
+              {
+                "color": "#FFFFFF",
+              },
+            ],
+          ]
+        }
+        variant="primary"
+      >
+        Fake logout
+      </Text>
+    </RNGestureHandlerButton>
+  </View>
+</View>
+`;
